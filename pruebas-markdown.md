@@ -3,6 +3,19 @@
 # Apuntes del MPVD UAH 2223
 ## Encabezamiento de segundo nivel
 
+## Comentarios
+Esto es un comentario y no se va a ver:
+<!--
+     __        __                      _     _      _
+     \ \      / /__    __ _ _ __ ___  | |__ (_)_ __(_)_ __   __ _
+      \ \ /\ / / _ \  / _` | '__/ _ \ | '_ \| | '__| | '_ \ / _` |
+       \ V  V /  __/ | (_| | | |  __/ | | | | | |  | | | | | (_| |
+        \_/\_/ \___|  \__,_|_|  \___| |_| |_|_|_|  |_|_| |_|\__, |
+                                                            |___/
+    Ever thought about joining us?
+    https://workforus.theguardian.com/careers/product-engineering/
+     --->
+
 ## Negritas y cursivas
 *Lorem ipsum* **dolor sit amet**, ***consectetur adipiscing elit***, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus id interdum velit laoreet id. Massa id neque aliquam vestibulum morbi blandit cursus. Consectetur libero id faucibus nisl tincidunt eget. Leo urna molestie at elementum eu facilisis. Dui vivamus arcu felis bibendum ut tristique. In iaculis nunc sed augue lacus viverra vitae congue eu. Volutpat commodo sed egestas egestas. Volutpat odio facilisis mauris sit amet. Tristique magna sit amet purus gravida quis blandit. Tortor condimentum lacinia quis vel. Scelerisque purus semper eget duis at. Vel risus commodo viverra maecenas accumsan lacus vel. Eu augue ut lectus arcu bibendum. Integer malesuada nunc vel risus commodo. Sed blandit libero volutpat sed cras ornare. Augue interdum velit euismod in pellentesque massa placerat duis. Enim nec dui nunc mattis enim ut tellus.
 
