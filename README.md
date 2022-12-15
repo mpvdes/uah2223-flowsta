@@ -21,7 +21,8 @@
 ![Logo de Open Refine](https://d33wubrfki0l68.cloudfront.net/3c988a78f4ddfdf4302932d866feda499368476d/d1ae7/img/openrefine_logo.svg)
 
 ## Texto citado
-`Texto citado en línea`
+`Los principios FAIR son fundamentales para la investigación abierta` (*Fattorello, 2008*), y por ello la investigación de la institución tiene que responder a estos principios.
+
 
 ```
 Orci ac auctor augue mauris augue neque gravida. Tincidunt ornare massa eget egestas purus viverra accumsan in. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Quis blandit turpis cursus in hac habitasse platea. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Id donec ultrices tincidunt arcu non sodales. Non arcu risus quis varius quam quisque id. Pharetra et ultrices neque ornare. Consectetur adipiscing elit ut aliquam purus sit. Ac ut consequat semper viverra nam libero justo laoreet sit. Id consectetur purus ut faucibus. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Habitasse platea dictumst quisque sagittis purus sit. Elementum integer enim neque volutpat ac tincidunt. Erat nam at lectus urna duis convallis convallis tellus. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Quis viverra nibh cras pulvinar mattis nunc sed. Arcu dictum varius duis at consectetur lorem donec massa. Viverra adipiscing at in tellus integer feugiat scelerisque varius morbi. Volutpat odio facilisis mauris sit amet massa vitae tortor.
